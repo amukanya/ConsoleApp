@@ -1,0 +1,13 @@
+/home/amukanya/cis083/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.csprojAssemblyReference.cache
+/home/amukanya/cis083/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.AssemblyInfoInputs.cache
+/home/amukanya/cis083/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.AssemblyInfo.cs
+/home/amukanya/cis083/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.csproj.CoreCompileInputs.cache
+/home/amukanya/cis083/ConsoleApp/bin/Debug/netcoreapp3.1/ConsoleApp
+/home/amukanya/cis083/ConsoleApp/bin/Debug/netcoreapp3.1/ConsoleApp.deps.json
+/home/amukanya/cis083/ConsoleApp/bin/Debug/netcoreapp3.1/ConsoleApp.runtimeconfig.json
+/home/amukanya/cis083/ConsoleApp/bin/Debug/netcoreapp3.1/ConsoleApp.runtimeconfig.dev.json
+/home/amukanya/cis083/ConsoleApp/bin/Debug/netcoreapp3.1/ConsoleApp.dll
+/home/amukanya/cis083/ConsoleApp/bin/Debug/netcoreapp3.1/ConsoleApp.pdb
+/home/amukanya/cis083/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.dll
+/home/amukanya/cis083/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.pdb
+/home/amukanya/cis083/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.genruntimeconfig.cache
